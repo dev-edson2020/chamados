@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      TESTE
+      Meu Appp React do Curso
     </div>
   );
 }
