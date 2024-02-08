@@ -5,14 +5,13 @@ import { getStorage } from 'firebase/storage';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD5w_vfzNkYi6bvfZ50pAtJkmmo7rZMjbc",
-  authDomain: "tickets-5348f.firebaseapp.com",
-  databaseURL: "https://tickets-5348f-default-rtdb.firebaseio.com",
-  projectId: "tickets-5348f",
-  storageBucket: "tickets-5348f.appspot.com",
-  messagingSenderId: "723047905406",
-  appId: "1:723047905406:web:f123ca6f44fd3148e3402f",
-  measurementId: "G-XS3DLWEBSC"
+  apiKey: "AIzaSyDPXyujw-69OO6mstLGXpc8xI3bZHPEcJ4",
+  authDomain: "chamados-65027.firebaseapp.com",
+  projectId: "chamados-65027",
+  storageBucket: "chamados-65027.appspot.com",
+  messagingSenderId: "261971905315",
+  appId: "1:261971905315:web:5dbcc4222d85bdbc065a96",
+  measurementId: "G-TXTZ3DX4YT"
 };
 
   const firebaseApp = initializeApp(firebaseConfig);

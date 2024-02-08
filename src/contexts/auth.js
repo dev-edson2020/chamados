@@ -86,7 +86,7 @@ function AuthProvider({ children }){
 
 
   function storageUser(data){
-    localStorage.setItem('@ticketsPRO', JSON.stringify(data))
+    localStorage.setItem('@chamadosPRO', JSON.stringify(data))
   }
 
   return(
