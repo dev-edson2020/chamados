@@ -22,17 +22,18 @@
 
 .close{
   background-color: #f65835;
-  border:0;
+  border: 0;
   border-radius: 5px;
   position: absolute;
-  top: 15px;
-  left: 15px;
+  bottom: 15px; /* Posiciona o botão 15px acima do fundo */
+  right: 15px; /* Posiciona o botão 15px da borda direita */
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 4px 15px;
   color: #FFF;
 }
+
 
 .close svg{
   margin-right: 5px;

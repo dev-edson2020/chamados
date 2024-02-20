@@ -8,7 +8,7 @@ export default function Modal({ conteudo, close }){
       <div className="container">
         <button className="close" onClick={ close }>
           <FiX size={25} color="#FFF" />
-          Voltar
+          Fechar
         </button>
 
         <main>
